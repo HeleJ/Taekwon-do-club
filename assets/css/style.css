@@ -55,3 +55,32 @@ menu {
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
+
+/* masterRiordan image */
+
+#masteerRiordan-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#masterRiordan-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/MasterRiordan-image.jpg') center center;
+
+    /* animation zoom effect on loading page */
+    animation-name: masterRiordan-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+/*  creates masterRiordan image zoom */
+@keyframes masterRiordan-zoom {
+    from {
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1);
+    }
+}
