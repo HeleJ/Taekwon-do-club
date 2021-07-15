@@ -56,27 +56,27 @@ menu {
     border-bottom: 1px solid #3a3a3a;
 }
 
-/* masterRiordan image */
+/* master image */
 
-#masteerRiordan-outer {
+#master-outer {
     height: 600px;
     width: 100%;
     overflow: hidden;
 }
 
-#masterRiordan-image {
+#master-image {
     height: 600px;
     width: 100%;
-    background: url('../images/MasterRiordan-image.jpg') center center;
+    background: url('../images/master-image.jpg') center center;
 
     /* animation zoom effect on loading page */
-    animation-name: masterRiordan-zoom;
+    animation-name: master-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
 }
 
-/*  creates masterRiordan image zoom */
-@keyframes masterRiordan-zoom {
+/*  creates master image zoom */
+@keyframes master-zoom {
     from {
         transform: scale(1);
     }
