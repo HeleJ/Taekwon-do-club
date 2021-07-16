@@ -49,38 +49,65 @@ menu {
 }
 
 #menu a:hover{
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid blue;
 }
 
 .active {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid blue;
 }
 
-/* master image */
+/* club image */
 
-#master-outer {
-    height: 600px;
+#club-outer {
+    height: 800px;
     width: 100%;
     overflow: hidden;
+
+    position: relative;
 }
 
-#master-image {
-    height: 600px;
+#cover-text, #cover-text h2 {
+    color: #fff;
+}
+
+
+#club-image {
+    height: 800px;
     width: 100%;
-    background: url('../images/master-image.jpg') center center;
+    background: url('../images/club-image.png') no-repeat center center;
 
     /* animation zoom effect on loading page */
-    animation-name: master-zoom;
-    animation-duration: 5s;
+    animation-name: club-zoom;
+    animation-delay: 1s;
+    animation-duration: 7s;
     animation-fill-mode: forwards;
 }
 
-/*  creates master image zoom */
-@keyframes master-zoom {
+/*  creates club image zoom */
+@keyframes club-zoom {
     from {
         transform: scale(1);
     }
     to{
-        transform: scale(1);
+        transform: scale(1.1);
     }
+}
+#cover-text {
+    font-size: 130%;
+    font-family:  Montserrat, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 500px;
+    height: 150px;
+
+    padding-top: 40px;
+    padding-left: 40px;
+
+    background-color: blue;
+
+    bottom: 30px;
+    left: 80px;
+
+    position: absolute;
 }
