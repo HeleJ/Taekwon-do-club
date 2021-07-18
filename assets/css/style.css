@@ -236,3 +236,15 @@ footer {
     padding: 5%;
     color: rgba(52, 80, 141);
 }
+/* gallery*/
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+}
+
+#photos >img {
+    width: 100%;
+}
