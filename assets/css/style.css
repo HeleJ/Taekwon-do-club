@@ -259,6 +259,7 @@ footer {
         height: 1200px;
         margin: 0 auto;
     }
+    
     #welcome {
         padding:30px 0;
         margin: 0;
@@ -289,6 +290,15 @@ footer {
     }
 }
 
+/* Contact image and form */
+
+.form-section {
+    clear:left;
+    background-image: url('../images/contact-image.png');
+    background-size: cover;
+    background-position: center;
+    height:900px;
+}
 /* tablet size from 950 wide down */
 @media screen and (max-width: 950px) {
 
