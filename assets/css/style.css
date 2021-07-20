@@ -364,16 +364,6 @@ textarea:hover {
         display: none;
     }
 }
-/* map */
-#map-wrapper {
-    height: 300px;
-    margin-bottom: 107px;
-}
-#map {
-    height: 100%;
-    width: 100%;
-    border: none;
-}
 
 /* tablet size from 950 wide down */
 @media screen and (max-width: 950px) {
@@ -384,6 +374,10 @@ textarea:hover {
         margin: 30px;
         margin-bottom: 20px;
         line-height: 25px;
+    }
+    #club-image {
+        vertical-align: middle;
+        float: none;
     }
 
     #cover-text {
