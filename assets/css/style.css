@@ -149,7 +149,11 @@ hr {
     clear: both;
     margin-bottom: 50px;
 }
-
+.left-about-heading h2 {
+    text-align: left;
+    color:rgba(52, 80, 141);
+    font-size: x-large;
+}
 .right-about-heading {
     width: 70%;
     float: left;
