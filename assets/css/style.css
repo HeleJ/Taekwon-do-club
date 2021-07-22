@@ -57,20 +57,18 @@ menu {
     border-bottom: 1px solid #252525;
 }
 
-/* club image */
+/* club image and cover text*/
 
 #club-outer {
     height: 600px;
     width: 100%;
     overflow: hidden;
-
     position: relative;
 }
 
 #cover-text, #cover-text h2 {
     color: #fff;
 }
-
 
 #club-image {
     height: 600px;
@@ -323,6 +321,21 @@ textarea:hover {
     color: #f33131;
 }
 
+/* Register image and style */
+
+.form-outer {
+    height: 600px;
+    width: 100px;
+    overflow: hidden;
+    position: relative;
+
+}
+.form-image {
+    height: 600px;
+    width: 100px;
+    background: url('..images/register-image.jpeg') no-repeat center center;
+
+}
 
 /*Media queries */
 
