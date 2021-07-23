@@ -41,7 +41,7 @@ This project was written in HTML & CSS using Cloud9 and is currently hosted on G
 * The other navigation links on the right are: Home, Gallery and Contact which link to different sections of the same page.
 * The navigation clearly tells the user the name of the club and website. Which makes the different sections of information easy to find.
 
-<img src="assets/images/club-section-images.png>
+<img src="assets/images/club-section-image.png>
 
 * The header has a background image of a child wearing a Taekwon-do uniform to show that this club is a childfriendly club. The picture was taken outside symbolizing the idea that Taekwon-do isn't just a sport, Taekwon-do is a martial art which means that one part is training and competitions but the lifestyle and the art of living is just as important.
 
