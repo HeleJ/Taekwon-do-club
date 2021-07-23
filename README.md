@@ -71,7 +71,7 @@ This project was written in HTML & CSS using Cloud9 and is currently hosted on G
 
 <img src="assets/documendation/contact-page-image.png">
 
-* Contact page comes wwith supportive backround image.
+* Contact page comes with supportive backround image.
 
 * This page consist form-section. Contact form collects first name, surename and email address for sending message.
 
@@ -82,9 +82,9 @@ This project was written in HTML & CSS using Cloud9 and is currently hosted on G
 ## Bugs
 ## Validator 
 
-https://validator.w3.org/nu/?doc=https%3A%2F%2Fhelej.github.io%2FTaekwon-do-club%
+https://validator.w3.org/nu/?doc=https://helej.github.io/Taekwon-do-club/index.html
 
-[alt-html-validator](assets/documendation/html-validation-result-image.png)
+
 
 # Deploiment
 
