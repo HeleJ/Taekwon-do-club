@@ -7,7 +7,7 @@ This website was built as part of the learning material for Code Institute's Ful
 You can check out the website [here!](https://helej.github.io/Taekwon-do-club)
 
 
-<img src="assets/images/my-page.png">
+<img src="assets/documendation/my-page.png">
 
 ## Project Description
 This site was created in order to get familiar with common development tools like Cloud9, Git & GitHub, and how to use them to write and manage code. The project itself will display a breakdown of the different technologies used in each of the different sections of the program
@@ -35,13 +35,13 @@ This project was written in HTML & CSS using Cloud9 and is currently hosted on G
 
 ## Features
 
-<img src="assets/images/heading.png">
+<img src="assets/documendation/heading.png">
 
 * Featured at the top of the page, the navigation bar shows the club name in the left corner: Master Riordan Taekwon-do Club.
 * The other navigation links on the right are: Home, Gallery and Contact which link to different sections of the same page.
 * The navigation clearly tells the user the name of the club and website. Which makes the different sections of information easy to find.
 
-<img src="assets/images/club-section-image.png">
+<img src="assets/documendation/club-section-image.png">
 
 * The header has a background image of a child wearing a Taekwon-do uniform to show that this club is a childfriendly club. The picture was taken outside symbolizing the idea that Taekwon-do isn't just a sport, Taekwon-do is a martial art which means that one part is training and competitions but the lifestyle and the art of living is just as important.
 
@@ -49,27 +49,27 @@ This project was written in HTML & CSS using Cloud9 and is currently hosted on G
 
 * The cover text provides information about the Clubs name and what of kind classes are provided.
 
-<img src="assets/images/section-benefits-image.png">
+<img src="assets/documendation/section-benefits-image.png">
 
 * The benfits section shows that this club and taekwon-do practise benefits all age groups.
 
 * This section is divided into three parts. Left side with physical health benefits, right side with menthal health benefits and in the middle is IUTF logo.
 
-<img src="assets/images/section-timetable-image.png">
+<img src="assets/documendation/section-timetable-image.png">
 
 * The timetable section has a backround image which has a neutral calming feeling when a group of students are sitting with their eyes closed and are having a moment for internal reflection. As in classes students improve their physical and mental strenght.
 
 * Section gives information about training times.
 
-<img src="assets/images/footer-image.png">
+<img src="assets/documendation/footer-image.png">
 
 * The footer includes social media icons. Users can find their Taekwon-do club on facebook, instagramm, twitter and youtube.
 
-<img src="assets/images/gallery-page-image.png">
+<img src="assets/documendation/gallery-page-image.png">
 
 * This page provides space to upload images from training sessions, graidings, competitions and other illustrative images to show activitis in this club.
 
-<img src="assets/images/contact-page-image.png">
+<img src="assets/documendation/contact-page-image.png">
 
 * Contact page comes wwith supportive backround image.
 
