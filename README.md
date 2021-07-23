@@ -13,7 +13,7 @@ You can check out the website [here!](https://helej.github.io/Taekwon-do-club)
 This site was created in order to get familiar with common development tools like Cloud9, Git & GitHub, and how to use them to write and manage code. The project itself will display a breakdown of the different technologies used in each of the different sections of the program
 
 ## Technology
-This project was written in HTML & CSS using Cloud9 and is currently hosted on GitHub pages
+This project was written in HTML & CSS using GitHub.
 
 # Table of contents
 1. Introduction
@@ -31,7 +31,33 @@ This project was written in HTML & CSS using Cloud9 and is currently hosted on G
 * The gallery is for pictures to inspire, show club training and activities.
 
 ## Design
-* Colour scheme
+
+
+### Colour scheme
+
+* My colour scheme is inspired by Taekwondo belt colours:
+
+White Belt
+Signifies innocence, as that of the beginning student who has no previous knowledge of Taekwondo.
+
+Blue Belt
+Signifies the Heaven towards which the plant matures into a towering tree as training in Taekwondo progresses. 
+
+Red Belt
+Signifies Danger, cautioning the student to exercise control and warning the opponent to stay away.
+
+Black Belt
+Opposite of white, therefore signifying the maturity and proficiency in Taekwondo, also indicates the wearer’s imperviousness to darkness and fear.
+
+* "BLACK BELT IS A WHITE BELT WHO NEVER QUIT."
+
+* white  #fafafa
+* blue  rgba(52, 80, 141)
+* red  #f33131
+* black  #252525
+
+
+
 
 ## Features
 
