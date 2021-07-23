@@ -84,6 +84,18 @@ This project was written in HTML & CSS using Cloud9 and is currently hosted on G
 
 https://validator.w3.org/nu/?doc=https://helej.github.io/Taekwon-do-club/index.html
 
+https://validator.w3.org/nu/?doc=https://helej.github.io/Taekwon-do-club/contact.html
+
+https://validator.w3.org/nu/?doc=https://helej.github.io/Taekwon-do-club/gallery.html
+
+<img src="assets/documendation/html-validation-result-image.png">
+
+<img src="assets/documendation/gallery-validation-result-image.png">
+
+<img src="assets/documendation/contact-validation-result-image.png">
+
+<img src="assets/documendation/css-validation-result-image.png">
+
 
 
 # Deploiment
