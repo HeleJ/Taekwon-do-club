@@ -16,9 +16,8 @@ This site was created in order to get familiar with common development tools lik
 This project was written in HTML & CSS using Cloud9 and is currently hosted on GitHub pages
 
 # Table of contents
-1. Introductioon
-2. Design
-   Colour Scheme
+1. Introduction
+2. Design  
 3. Features
 4. Future Features
 5. Testing
@@ -26,6 +25,61 @@ This project was written in HTML & CSS using Cloud9 and is currently hosted on G
 7. Credits
 
 
-# Taekwon-do club
-Master Riordan Taekwon-do club page is for Master Riordan taekwon-do club members but also for people who looking for to become a member. 
-Page is about club, health benefits, training times, links to social media and includes contact form for inquieries or messages. Gallery is for pictures to inspire and show club training and activities.
+##  Introduction
+* Master Riordan Taekwon-do club page is for Master Riordan taekwon-do club members but also for people who looking for to become a member. 
+* The page is about the club, it's health benefits, training times, links to social media and includes a contact form for inquieries or messages. 
+* The gallery is for pictures to inspire, show club training and activities.
+
+## Design
+* Colour scheme
+
+## Features
+
+<img src="assets/images/heading.png">
+
+* Featured at the top of the page, the navigation bar shows the club name in the left corner: Master Riordan Taekwon-do Club.
+* The other navigation links on the right are: Home, Gallery and Contact which link to different sections of the same page.
+* The navigation clearly tells the user the name of the club and website. Which makes the different sections of information easy to find.
+
+<img src="assets/images/club-section-images.png>
+
+* The header has a background image of a child wearing a Taekwon-do uniform to show that this club is a childfriendly club. The picture was taken outside symbolizing the idea that Taekwon-do isn't just a sport, Taekwon-do is a martial art which means that one part is training and competitions but the lifestyle and the art of living is just as important.
+
+* Background image also has animation zoom effect what creates a welcoming feeling.
+
+* The cover text provides information about the Clubs name and what of kind classes are provided.
+
+<img src="assets/images/section-benefits-image.png">
+
+* The benfits section shows that this club and taekwon-do practise benefits all age groups.
+
+* This section is divided into three parts. Left side with physical health benefits, right side with menthal health benefits and in the middle is IUTF logo.
+
+<img src="assets/images/section-timetable-image.png">
+
+* The timetable section has a backround image which has a neutral calming feeling when a group of students are sitting with their eyes closed and are having a moment for internal reflection. As in classes students improve their physical and mental strenght.
+
+* Section gives information about training times.
+
+<img src="assets/images/footer-image.png">
+
+* The footer includes social media icons. Users can find their Taekwon-do club on facebook, instagramm, twitter and youtube.
+
+<img src="assets/images/gallery-page-image.png>
+
+* This page provides space to upload images from training sessions, graidings, competitions and other illustrative images to show activitis in this club.
+
+<img src="assets/images/contact-page-image.png">
+
+* Contact page comes wwith supportive backround image.
+
+* This page consist form-section. Contact form collects first name, surename and email address for sending message.
+
+## Future Features
+
+## Testing
+
+## Deploiment
+
+## Credits
+
