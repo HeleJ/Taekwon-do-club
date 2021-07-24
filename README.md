@@ -142,11 +142,11 @@ I needed to open a new workspace to continue working.
 
 ## Validator 
 
-https://validator.w3.org/nu/?doc=https://helej.github.io/Taekwon-do-club/index.html
+* [Index.html validator](https://validator.w3.org/nu/?doc=https://helej.github.io/Taekwon-do-club/index.html)
 
-https://validator.w3.org/nu/?doc=https://helej.github.io/Taekwon-do-club/contact.html
+* [Contact.html validator](https://validator.w3.org/nu/?doc=https://helej.github.io/Taekwon-do-club/contact.html)
 
-https://validator.w3.org/nu/?doc=https://helej.github.io/Taekwon-do-club/gallery.html
+* [Gallery.html validator](https://validator.w3.org/nu/?doc=https://helej.github.io/Taekwon-do-club/gallery.html)
 
 <img src="assets/documendation/html-validation-result-image.png">
 
