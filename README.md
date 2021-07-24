@@ -163,7 +163,7 @@ https://validator.w3.org/nu/?doc=https://helej.github.io/Taekwon-do-club/gallery
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 * From the Github repository, navigate to the Setting tab
 * From the source section drop-down menuw, select the Master Branch
-* Once the master has been selected, the page provided the link to the comleted website.
+* Once the master has been selected, the page provided the link to the complgeted website.
 
 The live link can be found here - [Taekwon-do-Club](https://helej.github.io/Taekwon-do-club)
 
@@ -173,6 +173,8 @@ The live link can be found here - [Taekwon-do-Club](https://helej.github.io/Taek
 ## Content
 
 * The code to make my first project was taken from the [Love Running](https://github.com/HeleJ/love-running/blob/master/index.html) Project.
+
+* The health benefits content was taken from [here](https://www.britishtaekwondo.org.uk/about-taekwondo/health-benefits/)
 
 ## Media
 
