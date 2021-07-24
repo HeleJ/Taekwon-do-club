@@ -56,7 +56,11 @@ Opposite of white, therefore signifying the maturity and proficiency in Taekwond
 * Contact button: red  #f33131
 * Main text: black  #252525
 
-As every belt colour has a meaning I didn't want to bring more colours into the page.
+As Taekwondo originates from Korea their flag colours are white, black, red and blue as well.
+
+White backround symbolizing Korean people who was known as people who wearing white clothes. 
+
+It also means symbolizing brighness, purity and peace.
 
 
 ## Features
@@ -111,8 +115,18 @@ As every belt colour has a meaning I didn't want to bring more colours into the 
 # Testing
 
 1. Manual testing
+
 * Checking responsivness
+
+I confirmed that this project is responsive, looks good on functions on all standard secreen sizes using devtools device toolbar.
+
 * Browser Validation
+
+I tested that this page works in different browsers: Chrome and Internet Explorer
+
+* I have confirmed that the navigation, header, benefits section, timetable section and contact form are all readable and easy to understand.
+
+* I have conformed that the form works, requires entries in every field, will only accept an email in the email field, and the contact us button works.
 
 2. Automated testing
 * Code validation
