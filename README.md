@@ -103,6 +103,11 @@ Opposite of white, therefore signifying the maturity and proficiency in Taekwond
 
 ## Future Features
 
+* Add to the existing Contact page a map.
+* Add new Student Area Page where there are sections for grading, patterns, tenets, history of Taekwondo. Materials what are useful for students.
+
+
+
 # Testing 
 
 ## Bugs
