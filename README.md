@@ -172,5 +172,8 @@ The live link can be found here - [Taekwon-do-Club](https://helej.github.io/Taek
 
 ## Content
 
+* The code to make my first project was taken from the [Love Running](https://github.com/HeleJ/love-running/blob/master/index.html) Project.
+
 ## Media
 
+* The images in the gallery page was t aken from [Pexels](https.pexels.com/search/taekwondo/)
