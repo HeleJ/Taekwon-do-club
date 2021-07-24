@@ -135,6 +135,11 @@ I tested that this page works in different browsers: Chrome and Internet Explore
 
 
 ## Bugs
+
+While i was working with my gitpod workspace Readme.md file was frozen, it would only open for a split second. I tried opening it, closing it and restarting my laptop but nothing worked.
+
+I needed to open a new workspace to continue working.
+
 ## Validator 
 
 https://validator.w3.org/nu/?doc=https://helej.github.io/Taekwon-do-club/index.html
