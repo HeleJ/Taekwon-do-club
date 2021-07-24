@@ -33,6 +33,8 @@ This project was written in HTML & CSS using GitHub.
 ## Design
 
 
+
+
 ### Colour scheme
 
 * My colour scheme is inspired by Taekwondo belt colours:
@@ -51,10 +53,10 @@ Opposite of white, therefore signifying the maturity and proficiency in Taekwond
 
 * "BLACK BELT IS A WHITE BELT WHO NEVER QUIT."
 
-* white  #fafafa
-* Cover text background colour, h2 heading and footer: blue  rgba(52, 80, 141)
-* Contact button: red  #f33131
-* Main text: black  #252525
+* white  #fafafa ![#fafafa](https://via.placeholder.com/15/fafafa/000000?text=+)
+* Cover text background colour, h2 heading and footer: blue  rgba(52, 80, 141) 
+* Contact button: red  #f33131 ![#f33131](https://via.placeholder.com/15/f33131/000000?text=+)
+* Main text: black  #252525 ![#252525](https://via.placeholder.com/15/252525/000000git?text=+)
 
 As Taekwondo originates from Korea their flag colours are white, black, red and blue as well.
 
@@ -178,4 +180,4 @@ The live link can be found here - [Taekwon-do-Club](https://helej.github.io/Taek
 
 ## Media
 
-* The images in the gallery page was t aken from [Pexels](https.pexels.com/search/taekwondo/)
+* The images in the gallery page was taken from [Pexels](https.pexels.com/search/taekwondo/)
