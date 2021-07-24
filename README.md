@@ -108,7 +108,17 @@ As every belt colour has a meaning I didn't want to bring more colours into the 
 
 
 
-# Testing 
+# Testing
+
+1. Manual testing
+* Checking responsivness
+* Browser Validation
+
+2. Automated testing
+* Code validation
+* Lighthouse auditing
+<img src="assets/documendation/performance.png">
+
 
 ## Bugs
 ## Validator 
