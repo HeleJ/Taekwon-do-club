@@ -52,11 +52,11 @@ Opposite of white, therefore signifying the maturity and proficiency in Taekwond
 * "BLACK BELT IS A WHITE BELT WHO NEVER QUIT."
 
 * white  #fafafa
-* blue  rgba(52, 80, 141)
-* red  #f33131
-* black  #252525
+* Cover text background colour, h2 heading and footer: blue  rgba(52, 80, 141)
+* Contact button: red  #f33131
+* Main text: black  #252525
 
-
+As every belt colour has a meaning I didn't want to bring more colours into the page.
 
 
 ## Features
@@ -130,6 +130,14 @@ https://validator.w3.org/nu/?doc=https://helej.github.io/Taekwon-do-club/gallery
 
 
 # Deploiment
+
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+* From the Github repository, navigate to the Setting tab
+* From the source section drop-down menuw, select the Master Branch
+* Once the master has been selected, the page provided the link to the comleted website.
+
+The live link can be found here - [Taekwon-do-Club](https://helej.github.io/Taekwon-do-club)
+
 
 # Credits
 
