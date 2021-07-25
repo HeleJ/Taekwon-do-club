@@ -53,6 +53,11 @@ Opposite of white, therefore signifying the maturity and proficiency in Taekwond
 
 * "BLACK BELT IS A WHITE BELT WHO NEVER QUIT."
 
+To create colour palette I used [Coolers](https://coolors.co/fafafa-345075-f33131-252525)
+
+<img src="assets/documendation/colour-palette-image.png>
+
+
 * white  #fafafa ![#fafafa](https://via.placeholder.com/15/fafafa/000000?text=+)
 * Cover text background colour, h2 heading and footer: blue  rgba(52, 80, 141) 
 * Contact button: red  #f33131 ![#f33131](https://via.placeholder.com/15/f33131/000000?text=+)
