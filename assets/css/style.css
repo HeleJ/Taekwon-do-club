@@ -58,6 +58,7 @@ menu {
 }
 
 /* club image and cover text*/
+ /* image  https://i.unimedias.fr/2018/03/judo.jpg */
 
 #club-outer {
     height: 600px;
@@ -74,6 +75,8 @@ menu {
     height: 600px;
     width: 100%;
     background: url('../images/club-image.jpg') no-repeat center center;
+
+   
 
     /* animation zoom effect on loading page */
     animation-name: club-zoom;
