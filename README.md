@@ -183,3 +183,5 @@ The live link can be found here - [Taekwon-do-Club](https://helej.github.io/Taek
 ## Media
 
 * The images in the gallery page was taken from [Pexels](https.pexels.com/search/taekwondo/)
+
+* Icon used in the page was taken from Font Awesome.
