@@ -55,11 +55,11 @@ Opposite of white, therefore signifying the maturity and proficiency in Taekwond
 
 To create colour palette I used [Coolers](https://coolors.co/fafafa-345075-f33131-252525)
 
-<img src="assets/documendation/colour-palette-image.png>
+<img src="assets/documendation/colour-palette-image.png">
 
 
 * white  #fafafa ![#fafafa](https://via.placeholder.com/15/fafafa/000000?text=+)
-* Cover text background colour, h2 heading and footer: blue  rgba(52, 80, 141) 
+* Cover text background colour, h2 heading and footer: blue  rgba(52, 80, 141) ![rgba(52, 80,141)](https://via.placeholder.com/15/345075/000000?text=+)
 * Contact button: red  #f33131 ![#f33131](https://via.placeholder.com/15/f33131/000000?text=+)
 * Main text: black  #252525 ![#252525](https://via.placeholder.com/15/252525/000000git?text=+)
 
