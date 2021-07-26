@@ -114,6 +114,7 @@ menu {
     position: absolute;
 }
   /* club benefits */
+  /* center about logo source https://www.facebook.com/IrishUnitedTaekwondoFederation/photos/a.790238944399320/1229467877143089 */
 
 #club-benefits {
     height: 600px
@@ -197,6 +198,7 @@ hr {
 }
 
 /* class timetable */
+/* image source http://tuffmommablog.net/wp-content/uploads/2020/07/img_8083-1024x660.png */
 
 #timetable {
     background-image: url('../images/timetable-image.jpg');
@@ -255,6 +257,7 @@ footer {
 }
 
 /* Contact image and form */
+/* Image source https://destinymartialarts.com/wp-content/uploads/2018/06/Free-Summer-TaeKwon-Do-Website-stock.png */
 
 .form-section {
     clear: left;
