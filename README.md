@@ -20,7 +20,7 @@ This project was written in HTML & CSS using GitHub.
 3. Features
 4. Future Features
 5. Testing
-6. Deploiment
+6. Deployment
 7. Credits
 
 
@@ -60,11 +60,11 @@ To create colour palette I used[Coolers](https://coolors.co/fafafa-345075-f33131
 * Contact button: red  #f33131 ![#f33131](https://via.placeholder.com/15/f33131/000000?text=+)
 * Main text: black  #252525 ![#252525](https://via.placeholder.com/15/252525/000000git?text=+)
 
-As Taekwondo originates from Korea their flag colours are white, black, red and blue as well.
+As Taekwondo originates from Korea their flag colours are white, black, red, and blue as well.
 
-White backround symbolizing Korean people who was known as people who wearing white clothes. 
+White background symbolizing Korean people who were known as people who wearing white clothes. 
 
-It also means symbolizing brighness, purity and peace.
+It also means symbolizing brightness, purity, and peace.
 
 
 ## Features
@@ -73,12 +73,12 @@ It also means symbolizing brighness, purity and peace.
 
 
 * Featured at the top of the page, the navigation bar shows the club name in the left corner: Master Riordan Taekwon-do Club.
-* The other navigation links on the right are: Home, Gallery and Contact which link to different sections of the same page.
-* The navigation clearly tells the user the name of the club and website. Which makes the different sections of information easy to find.
+* The other navigation links on the right are: Home, Gallery, and Contact which link to different sections of the same page.
+* The navigation tells the user the name of the club and website. Which makes the different sections of information easy to find.
 
 ![club-section](assets/documentation/club-section-image.png)
 
-* The header has a background image of a child wearing a Taekwon-do uniform to show that this club is a childfriendly club. The picture was taken outside symbolizing the idea that Taekwon-do isn't just a sport, Taekwon-do is a martial art which means that one part is training and competitions but the lifestyle and the art of living is just as important.
+* The header has a background image of a child wearing a Taekwon-do uniform to show that this club is a child-friendly club. The picture was taken outside symbolizing the idea that Taekwon-do isn't just a sport, Taekwon-do is a martial art which means that one part is training and competitions but the lifestyle and the art of living is just as important.
 
 * Background image also has animation zoom effect what creates a welcoming feeling.
 
@@ -88,34 +88,32 @@ It also means symbolizing brighness, purity and peace.
 ![section-benefits-image](assets/documentation/section-benefits-image.png)
 
 
-* The benfits section shows that this club and taekwon-do practise benefits all age groups.
+* The benefits section shows that this club and taekwondo practice benefits all age groups.
 
-* This section is divided into three parts. Left side with physical health benefits, right side with menthal health benefits and in the middle is IUTF logo.
+* This section is divided into three parts. The left side with physical health benefits, the right side with mental health benefits and in the middle is IUTF logo.
 
 ![section-timetable-image](assets/documentation/section-timetable-image.png)
 
-* The timetable section has a backround image which has a neutral calming feeling when a group of students are sitting with their eyes closed and are having a moment for internal reflection. As in classes students improve their physical and mental strenght.
+* The timetable section has a background image that has a neutral calming feeling when a group of students are sitting with their eyes closed, and are having a moment for internal reflection. As in classes, students improve their physical, and mental strength.
 
 * Section gives information about training times.
 
 ![footer-image](assets/documentation/footer-image.png)
-
-* The footer includes social media icons. Users can find their Taekwon-do club on facebook, instagramm, twitter and youtube.
-
+* The footer includes social media icons. Users can find their Taekwon-do club on Facebook, Instagram, Twitter, and Youtube.
 ![gallery-page-image](assets/documentation/gallery-page-image.png)
 
-* This page provides space to upload images from training sessions, graidings, competitions and other illustrative images to show activitis in this club.
+* This page provides space to upload images from training sessions, gradings, competitions, and other illustrative images to show activities in this club.
 
 ![contact-page-image](assets/documentation/contact-page-image.png)
 
-* Contact page comes with supportive backround image.
+* Contact page comes with a supportive background image.
 
-* This page consist form-section. Contact form collects first name, surename and email address for sending message.
+* This page consists form-section. The contact form collects first name, surname, and email address for sending a message.
 
 ## Future Features
 
 * Add to the existing Contact page a map.
-* Add new Student Area Page where there are sections for grading, patterns, tenets, history of Taekwondo. Materials what are useful for students.
+* Add a new Student Area Page where there are sections for grading, patterns, tenets, history of Taekwondo. Materials that are useful for students.
 
 
 
@@ -123,17 +121,17 @@ It also means symbolizing brighness, purity and peace.
 
 1. Manual testing
 
-* Checking responsivness
+* Checking responsiveness
 
-I confirmed that this project is responsive, looks good on functions on all standard secreen sizes using devtools device toolbar.
+I confirmed that this project is responsive, looks good on functions on all standard screen sizes using the devtools device toolbar.
 
 * Browser Validation
 
 I tested that this page works in different browsers: Chrome and Internet Explorer
 
-* I have confirmed that the navigation, header, benefits section, timetable section and contact form are all readable and easy to understand.
+* I have confirmed that the navigation, header, benefits section, timetable section, and contact form are all readable and easy to understand.
 
-* I have conformed that the form works, requires entries in every field, will only accept an email in the email field, and the contact us button works.
+* I have confirmed that the form works, requires entries in every field, will only accept an email in the email field, and the contact us button works.
 
 2. Automated testing
 * Code validation
@@ -143,7 +141,7 @@ I tested that this page works in different browsers: Chrome and Internet Explore
 
 ## Bugs
 
-While i was working with my gitpod workspace Readme.md file was frozen, it would only open for a split second. I tried opening it, closing it and restarting my laptop but nothing worked.
+While I was working with my gitpod workspace Readme.md file was frozen, it would only open for a split second. I tried opening it, closing, and restarting my laptop but nothing worked.
 
 I needed to open a new workspace to continue working.
 
@@ -169,8 +167,8 @@ I needed to open a new workspace to continue working.
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 * From the Github repository, navigate to the Setting tab
-* From the source section drop-down menuw, select the Master Branch
-* Once the master has been selected, the page provided the link to the complgeted website.
+* From the source section drop-down menu, select the Master Branch
+* Once the master has been selected, the page provided the link to the completed website.
 
 The live link can be found here - [Taekwon-do-Club](https://helej.github.io/Taekwon-do-club)
 
