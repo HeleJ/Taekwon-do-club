@@ -85,28 +85,28 @@ It also means symbolizing brighness, purity and peace.
 * The cover text provides information about the Clubs name and what of kind classes are provided.
 
 
-![section-benefits](assets/documentation/section-benefits-image.png)
+![section-benefits-image](assets/documentation/section-benefits-image.png)
 
 
 * The benfits section shows that this club and taekwon-do practise benefits all age groups.
 
 * This section is divided into three parts. Left side with physical health benefits, right side with menthal health benefits and in the middle is IUTF logo.
 
-![section-timetable](<assets/documentation/section-timetable-image.png)
+![section-timetable-image](assets/documentation/section-timetable-image.png)
 
 * The timetable section has a backround image which has a neutral calming feeling when a group of students are sitting with their eyes closed and are having a moment for internal reflection. As in classes students improve their physical and mental strenght.
 
 * Section gives information about training times.
 
-![footer](<assets/documentation/footer-image.png)
+![footer-image](assets/documentation/footer-image.png)
 
 * The footer includes social media icons. Users can find their Taekwon-do club on facebook, instagramm, twitter and youtube.
 
-![gallery-page](<assets/documentation/gallery-page-image.png)
+![gallery-page-image](assets/documentation/gallery-page-image.png)
 
 * This page provides space to upload images from training sessions, graidings, competitions and other illustrative images to show activitis in this club.
 
-![contact-page](<assets/documentation/contact-page-image.png)
+![contact-page-image](assets/documentation/contact-page-image.png)
 
 * Contact page comes with supportive backround image.
 
